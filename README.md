@@ -38,8 +38,7 @@ It is heavily based on the concepts by [Munzner, 2014](https://www.cs.ubc.ca/~tm
 For full data transparency, it is possible to choose between 'All data' or 'Exclude' the data that is declared as 'Unknown', 'Undefined', 'Data missing or out of range'
 
 More information about these attributes can be found at [Road Safety Open Dataset Data Guide](https://data.dft.gov.uk/road-accidents-safety-data/Road-Safety-Open-Dataset-Data-Guide.xlsx)
-'''),
 
-    dcc.Markdown('''Authors: Camila Matoba and Sietske Wijffels
+Authors: Camila Matoba and Sietske Wijffels
     
 License of the data: [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
