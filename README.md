@@ -1,6 +1,6 @@
 # UK Road Safety Data Visualization project
 
-## How to run the code:
+## How to run the app:
 1. Download the data sources in the same folder as the notebook:
 [Data sources downloadable here](https://drive.google.com/drive/u/1/folders/1eJqYNzwgtQiLZiiTwfg8hfdU5oAHBk4v)
 
