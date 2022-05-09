@@ -1,6 +1,14 @@
 # UK Road Safety Data Visualization project
 
+## How to run the code:
+1. Download the data sources in the same folder as the notebook:
 [Data sources downloadable here](https://drive.google.com/drive/u/1/folders/1eJqYNzwgtQiLZiiTwfg8hfdU5oAHBk4v)
+
+2. Run all cells of the notebook
+
+4. Open the app in your local browser at http://127.0.0.1:2077/
+
+## About the app
 
 This app allows an interactive analysis on the [UK Road Safety Data](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data) from 01/01/2016 to 31/12/2020.
     
