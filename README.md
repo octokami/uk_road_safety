@@ -6,14 +6,16 @@
 
 2. Run all cells of the notebook [Road Safety data](https://github.com/octokami/uk_road_safety/blob/main/Road%20Safety%20data.ipynb)
 
-4. Open the app in your local browser at http://127.0.0.1:2077/
+3. Open the app in your local browser at http://127.0.0.1:2077/
 
 ## Accompanying reports
-* Data visualisation report is at [overleaf](https://www.overleaf.com/read/ffyqyrtwkfbj)
+* Data visualisation report is at [Overleaf](https://www.overleaf.com/read/ffyqyrtwkfbj)
 * Screencast of the interactive process is at [Youtube](https://youtu.be/8JNUGkkWy7c)
 
 ## About the app
 This app allows an interactive analysis on the [UK Road Safety Data](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data) from 01/01/2016 to 31/12/2020.
+
+It consists of the homepage, the [Road Casualties Map](http://127.0.0.1:2077/map) and the [Attributes correlation analysis](http://127.0.0.1:2077/attributes)
     
 On the [Road Casualties Map](/map), first there is an overview of the full UK following the rule of thumb "Overview First, Zoom and Filter, Detail on Demand". 
 Another reason for this is because plotting all the precise locations of casualties made the map very cluttered, losing a clear view of the bigger picture. 
