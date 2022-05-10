@@ -4,7 +4,7 @@
 1. Download the data sources in the same folder as the notebook:
 [Data sources downloadable here](https://drive.google.com/drive/u/1/folders/1eJqYNzwgtQiLZiiTwfg8hfdU5oAHBk4v)
 
-2. Run all cells of the notebook [Road Safety data](https://github.com/octokami/uk_road_safety/blob/main/Road%20Safety%20data.ipynb)
+2. Run all cells of the notebook [Interactive UK Road Safety tool](https://github.com/octokami/uk_road_safety/blob/main/Interactive%20UK%20Road%20Safety%20tool.ipynb)
 
 3. Open the app in your local browser at http://127.0.0.1:2077/
 
