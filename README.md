@@ -17,7 +17,7 @@ This app allows an interactive analysis on the [UK Road Safety Data](https://dat
 
 It consists of the homepage, the [Road Casualties Map](http://127.0.0.1:2077/map) and the [Attributes correlation analysis](http://127.0.0.1:2077/attributes)
     
-On the [Road Casualties Map](/map), first there is an overview of the full UK following the rule of thumb "Overview First, Zoom and Filter, Detail on Demand". 
+On the Road Casualties Map, first there is an overview of the full UK following the rule of thumb "Overview First, Zoom and Filter, Detail on Demand". 
 Another reason for this is because plotting all the precise locations of casualties made the map very cluttered, losing a clear view of the bigger picture. 
 This also greatly impacted the responsiveness of the visualisation, since less dots needed to be plotted. As an intteractive tool, it is possible to:    
 * **Choose Map aggregation:**
